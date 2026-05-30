@@ -1,0 +1,104 @@
+═══════════════════════════════════════════════════════════════
+  QUICK START GUIDE - FAQ Chatbot
+═══════════════════════════════════════════════════════════════
+
+📍 STEP 1: Open Command Prompt (CMD)
+   Press: Windows + R
+   Type: cmd
+   Press: Enter
+
+📍 STEP 2: Navigate to Project
+   Copy and paste this command:
+   
+   cd C:\Users\DELL\Downloads\NLP Assignment
+
+📍 STEP 3: Activate Virtual Environment
+   Copy and paste this command:
+   
+   venv\Scripts\activate
+   
+   You should see (venv) at the start of your line
+
+📍 STEP 4: Run the Chatbot
+   Copy and paste this command:
+   
+   python src\chatbot.py
+   
+   Wait for it to load (takes 10-30 seconds)
+
+📍 STEP 5: Start Asking Questions!
+
+═══════════════════════════════════════════════════════════════
+  SAMPLE QUESTIONS TO ASK
+═══════════════════════════════════════════════════════════════
+
+✅ HIGH CONFIDENCE EXAMPLES:
+   What are the admission requirements?
+   How do I apply for admission?
+   Is there a Computer Science program?
+   Are scholarships available?
+   What is the fee structure?
+   When does the academic year start?
+   What is the attendance policy?
+   How do I contact the admissions office?
+
+✅ PARAPHRASED QUERIES:
+   How much does it cost?
+   When can I start?
+   Do you have CS program?
+   What if I fail a course?
+   Can international students get scholarships?
+
+✅ FALLBACK EXAMPLES (will show "Sorry, I could not find..."):
+   What's the weather like?
+   Can I get a refund?
+   Tell me about parking
+
+📍 STEP 6: Exit the Chatbot
+   Type: quit
+   Or type: exit
+
+═══════════════════════════════════════════════════════════════
+  FOR VIDEO RECORDING
+═══════════════════════════════════════════════════════════════
+
+🎬 BEFORE YOU START RECORDING:
+   1. Make CMD font bigger:
+      - Right-click CMD title bar
+      - Click "Properties"
+      - Go to "Font" tab
+      - Select size 20 or 24
+      - Click OK
+   
+   2. Maximize CMD window
+   
+   3. Open screen recorder (Windows + G for Game Bar)
+
+🎬 RECORDING STRUCTURE (3-5 minutes):
+   
+   00:00 - Say: "Hi, I'm [Your Name], [Roll Number]"
+   00:10 - Say: "This is our NLP FAQ Chatbot"
+   00:20 - Run the commands above
+   00:30 - Wait for chatbot to load
+   01:00 - Ask 8-10 questions from the list above
+   04:00 - Type "quit" to exit
+   04:30 - Say: "Thank you!"
+
+═══════════════════════════════════════════════════════════════
+  TROUBLESHOOTING
+═══════════════════════════════════════════════════════════════
+
+❌ If you see "python is not recognized":
+   Try: py src\chatbot.py
+   
+❌ If virtual environment won't activate:
+   Make sure you're in the right folder
+   Check that venv folder exists
+   
+❌ If chatbot won't start:
+   Run: pip install -r requirements.txt
+   Then try again
+
+═══════════════════════════════════════════════════════════════
+
+Need more help? Check HOW_TO_RUN.md for detailed instructions!
