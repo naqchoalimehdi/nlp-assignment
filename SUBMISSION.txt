@@ -1,0 +1,47 @@
+═══════════════════════════════════════════════════════════════
+  NLP ASSIGNMENT SUBMISSION
+═══════════════════════════════════════════════════════════════
+
+Course: Natural Language Processing
+Assignment: Retrieval-Based FAQ Chatbot
+
+Submitted By:
+  • Naqcho Ali - CS-113
+  • Syed Hassham Ahmed - CS-118
+
+Date: May 30, 2026
+
+═══════════════════════════════════════════════════════════════
+  GITHUB REPOSITORY
+═══════════════════════════════════════════════════════════════
+
+Repository Link:
+https://github.com/naqchoalimehdi/nlp-assignment
+
+The repository contains:
+  ✓ Complete source code (src/)
+  ✓ FAQ dataset - 58 entries (data/)
+  ✓ PDF report - 10 pages (REPORT.pdf)
+  ✓ Documentation (README.md)
+  ✓ Requirements (requirements.txt)
+  ✓ Setup guides (HOW_TO_RUN.md, QUICK_START.txt)
+
+═══════════════════════════════════════════════════════════════
+  DEMONSTRATION VIDEO
+═══════════════════════════════════════════════════════════════
+
+Video file included in this ZIP submission.
+
+═══════════════════════════════════════════════════════════════
+  PROJECT SUMMARY
+═══════════════════════════════════════════════════════════════
+
+• Domain: University Admissions
+• Technique: Sentence Transformers (all-MiniLM-L6-v2)
+• Dataset: 58 FAQ pairs across 7 categories
+• Accuracy: 75% on 20 test queries
+• Features: Semantic matching, confidence threshold, fallback
+
+═══════════════════════════════════════════════════════════════
+
+For detailed information, please visit the GitHub repository.
