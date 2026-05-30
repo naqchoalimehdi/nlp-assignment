@@ -1,0 +1,21 @@
+query,expected_category,query_type,notes
+How do I apply to the university?,Admissions,exact_match,Direct question from FAQ
+What do I need to submit for admission?,Admissions,paraphrase,Paraphrased version of documents question
+When can I apply for fall semester?,Admissions,paraphrase,Paraphrased deadline question
+Is there any fee for applying?,Admissions,paraphrase,Paraphrased application fee question
+How much does it cost per semester?,Fees,paraphrase,Paraphrased fee structure question
+Can I pay in installments?,Fees,exact_match,Payment plan question
+Do you offer any financial help?,Fees,paraphrase,Financial aid question
+Where is your university?,Campus,paraphrase,Location question
+Do you have dorms?,Campus,paraphrase,Hostel question using informal term
+Is the campus safe?,Campus,paraphrase,Security question
+What courses do you have?,Programs,paraphrase,Programs offered question
+Do you have CS degree?,Programs,paraphrase,Computer Science program with abbreviation
+How long is the bachelors program?,Programs,paraphrase,Duration question with different terminology
+Can I study in the evening?,Programs,paraphrase,Evening classes question
+What is the minimum percentage required?,Admissions,paraphrase,GPA requirement question
+Are there any scholarships?,Admissions,spelling_error,Scholarship question (correct spelling)
+How can I check my application status?,Admissions,paraphrase,Admission status question
+What is the attendence policy?,Academic,spelling_error,Attendance with spelling error
+Can I drop a subject?,Academic,paraphrase,Drop course question with different terminology
+How are grades calculated?,Academic,paraphrase,Grading system question
