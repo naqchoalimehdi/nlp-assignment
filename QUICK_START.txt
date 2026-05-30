@@ -58,47 +58,4 @@
    Type: quit
    Or type: exit
 
-═══════════════════════════════════════════════════════════════
-  FOR VIDEO RECORDING
-═══════════════════════════════════════════════════════════════
-
-🎬 BEFORE YOU START RECORDING:
-   1. Make CMD font bigger:
-      - Right-click CMD title bar
-      - Click "Properties"
-      - Go to "Font" tab
-      - Select size 20 or 24
-      - Click OK
-   
-   2. Maximize CMD window
-   
-   3. Open screen recorder (Windows + G for Game Bar)
-
-🎬 RECORDING STRUCTURE (3-5 minutes):
-   
-   00:00 - Say: "Hi, I'm [Your Name], [Roll Number]"
-   00:10 - Say: "This is our NLP FAQ Chatbot"
-   00:20 - Run the commands above
-   00:30 - Wait for chatbot to load
-   01:00 - Ask 8-10 questions from the list above
-   04:00 - Type "quit" to exit
-   04:30 - Say: "Thank you!"
-
-═══════════════════════════════════════════════════════════════
-  TROUBLESHOOTING
-═══════════════════════════════════════════════════════════════
-
-❌ If you see "python is not recognized":
-   Try: py src\chatbot.py
-   
-❌ If virtual environment won't activate:
-   Make sure you're in the right folder
-   Check that venv folder exists
-   
-❌ If chatbot won't start:
-   Run: pip install -r requirements.txt
-   Then try again
-
-═══════════════════════════════════════════════════════════════
-
-Need more help? Check HOW_TO_RUN.md for detailed instructions!
+ 
