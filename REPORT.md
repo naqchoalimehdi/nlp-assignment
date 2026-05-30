@@ -7,6 +7,10 @@
 **Assignment:** Retrieval-Based FAQ Chatbot  
 **Date:** May 30, 2026  
 
+**Submitted By:**
+- **Naqcho Ali** - CS-113
+- **Syed Hassham Ahmed** - CS-118
+
 ---
 
 ## Table of Contents

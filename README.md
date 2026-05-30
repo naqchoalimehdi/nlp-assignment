@@ -162,7 +162,8 @@ This project is created for academic purposes as part of an NLP course assignmen
 
 ## Authors
 
-[Add your names and roll numbers here]
+- **Naqcho Ali** - CS-113
+- **Syed Hassham Ahmed** - CS-118
 
 ## Acknowledgments
 
